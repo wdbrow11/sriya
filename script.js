@@ -12,7 +12,8 @@ var shoutouts = [
   "Your enthusiasm and kindness and eagerness to help.",
   "How you check up on us and make us feel included!",
   "how patient you are and how much you are always willing to help.",
-  "You always take so much time to make sure that everyone’s problems are solved and your warm spirit is so wonderful to be around."
+  "You always take so much time to make sure that everyone’s problems are solved and your warm spirit is so wonderful to be around.",
+  "You ARE very funny, I like talking with you and I hope we still be friends after this course is finished. You're a bunnyyyyyy."
 ]
 
 for (x of shoutouts) {
